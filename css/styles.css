@@ -1,0 +1,219 @@
+
+
+.fundo{
+    font-size: xx-large ;
+
+}
+
+.mei{
+    position: relative;
+    bottom: 65px;
+
+}
+
+#textodocto{
+    width: 700px;
+    height: 470px;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 350px;
+    border: 4px solid gray;
+    border-radius: 12px;
+    text-align: center;
+
+}
+
+#textodofront{
+    width: 800px;
+    height: 470px;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 300px;
+    border: 4px solid gray;
+    border-radius: 12px;
+    text-align: center;
+    bottom: 70;
+}
+
+#textodoback{
+    width: 800px;
+    height: 470px;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 300px;
+    border: 4px solid gray;
+    border-radius: 12px;
+    text-align: center;
+    bottom: 50;
+
+
+}
+
+#textodofull{
+    width: 800px;
+    height: 470px;
+    color: white;
+    background-color: black;
+    position: relative;
+    left: 300px;
+    border: 4px solid gray;
+    border-radius: 12px;
+    text-align: center;
+    bottom: 50;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    width: 500px;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 450px;
+    border-radius: 12px;
+    border: 4px solid white;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+li, a{
+    text-decoration: none;
+
+}
+
+body{
+    width: 100px;
+    height: 0px;
+    background-image: url(/img/daving.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    margin: 0%;
+    padding-bottom: 0%;
+} 
+
+#cto{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    left: 650px;
+    top: 80px;
+    width: 200px;
+    height: 250px;
+    border-radius: 12px;
+    text-align: center;
+    
+}
+#texto1{
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+}
+
+#Tcto{
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+
+}
+
+#frontend{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    left: 950px;
+    bottom: 205px;
+    width: 200px;
+    height: 250px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#tfe{
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    height: 50px;
+}
+
+#texto2{
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+}
+
+
+#backend{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    left: 950px;
+    bottom: 175px;
+    width: 200px;
+    height: 250px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#tbe{
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    height: 50px;
+}
+
+#texto3{
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+}
+
+
+#fullstack{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    left: 650px;
+    bottom: 460px;
+    width: 200px;
+    height: 250px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#tfs{
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    height: 50px;
+}
+
+#texto4{
+    width: 200px;
+    height: 200px;
+    color: white;
+    text-align: center;
+}
+
+#tudo{
+    position: relative;
+    right: 250px;
+    bottom: 100px;
+}
+
+#escolha{
+    position: relative;
+    left: 505px;
+    width: 400px;
+    bottom: 20px;
+    color: white;
+}
+
+#titulo{
+    left: 436px;
+}
